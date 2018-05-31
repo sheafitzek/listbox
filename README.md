@@ -31,7 +31,7 @@ antigen bundle gko/listbox
 ### With [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ```sh
-git clone https://github.com/gko/listbox.git ~/.oh-my-zsh/custom/plugins/listbox
+git clone https://github.com/sheafitzek/zsh-listbox.git ~/.oh-my-zsh/custom/plugins/listbox
 
 ```
 
